@@ -1,0 +1,6 @@
+Hurra GitHub nutzt auch per default 2 spaces
+<?php
+  while(true){
+   test();
+  }
+?>
